@@ -367,8 +367,9 @@ class _DataPusherState extends State<DataPusher>
       // running on the web!
       return;
     }
+    return;
     const username = 'wildcamp@guydegnol.net';
-    const password = '&crMH\$cS2piALEp';
+    const password = 'XXXXXXXXXXXXXXXXXXXX';
     final smtpServer = smtp_server.SmtpServer(
       'smtp.online.net',
       port: 587,
