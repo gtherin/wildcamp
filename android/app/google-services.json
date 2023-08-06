@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "942816161838",
+    "firebase_url": "https://wildcamping-326008-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wildcamping-326008",
+    "storage_bucket": "wildcamping-326008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942816161838:android:44c0531d64822cd3daafbf",
+        "android_client_info": {
+          "package_name": "net.guydegnol.wildcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942816161838-pkha2n0b6lngd4fra0cu0tk070nddd97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogzsx39b7TgsX85Z14wvII-v7C0IN_pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942816161838-pkha2n0b6lngd4fra0cu0tk070nddd97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942816161838-2d9nbe8m55brv32lvnmih6d6q98m746f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.guydegnol.wildcamp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
