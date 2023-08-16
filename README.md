@@ -14,7 +14,4 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-[![Watch the video](https://img.youtube.com/vi/am5H9G6OJgs/maxresdefault.jpg)](https://youtube.com/shorts/am5H9G6OJgs)
-[![Watch the video](https://img.youtube.com/vi/am5H9G6OJgs/maxresdefault.jpg)](https://youtube.com/shorts/am5H9G6OJgs)
-
-[![Watch the video](assets/wildcamp.png)](https://youtube.com/shorts/am5H9G6OJgs)
+[![Watch the video](https://img.youtube.com/vi/am5H9G6OJgs/hqdefault.jpg)](https://youtube.com/shorts/am5H9G6OJgs)
